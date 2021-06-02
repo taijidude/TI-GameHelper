@@ -1,0 +1,12 @@
+model\ForceType.class
+model\Game.class
+model\Technology.class
+model\App.class
+model\Planet.class
+model\System.class
+model\Player.class
+model\PlanetTrait.class
+model\Force.class
+model\Objectives.class
+model\Location.class
+model\TechnologyType.class
