@@ -2,6 +2,7 @@
 
 A Tool to analyze Game Situations in Strategic Board Game "Twilight Imperium".
 
+Das ist ein Test
 
 ## Roadmap v0.1: 
 
